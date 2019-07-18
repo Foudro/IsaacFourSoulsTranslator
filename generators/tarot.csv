@@ -1,0 +1,36 @@
+Butins - Tarot;;
+0. The Fool;0. Le Fou;Terminez le tour d'un joueur. Annulez tous les effets qui ne sont pas encore résolus.
+I. The Magician;I. Le Magicien;Changez le résultat d'un lancer de dé en la valeur de votre choix.
+II. The High Priestess;II. La Grande Prêtresse;"Choisissez un joueur ou un monstre puis lancez un dé :
+Infligez autant de dégâts à la cible."
+III. The Empress;III. L'Impératrice;Un joueur gagne +1 attaque et +1 à tous ses lancers de dé jusqu'à la fin du tour.
+IV. The Emperor;IV. L'Empereur;Regardez les 5 premières cartes du paquet de monstres. Placez-en 4 en-dessous du paquet et 1 au-dessus.
+V. The Hierophant;V. Le Hiérophante;Prévenez jusqu'à 2 dégâts infligés à un joueur ou un monstre.
+VI. The Lovers;VI. Les Amants;Un joueur gagne +2 santé jusqu'à la fin du tour.
+VII. The Chariot;VII. Le Chariot;Un joueur gagne +1 attaque et +1 santé jusqu'à la fin du tour.
+VIII. Justice;VIII. La Justice;"Choisissez un joueur :
+Piochez des butins et gagnez des pièces jusqu'à en avoir autant que lui."
+IX. The Hermit;IX. L'Hermite;Regardez les 5 premières cartes du paquet de trésors. Placez-en 4 en-dessous du paquet et 1 au-dessus.
+X. Wheel of Fortune;X. La Roue de la Fortune;"Lancez un dé : 
+1: gagnez 1c. 
+2: subissez 2 dégâts. 
+3: piochez 3 butins. 
+4: perdez 4c. 
+5: gagnez 5c. 
+6: gagnez 1 trésor."
+XI. Strength;XI. La Force;Un joueur gagne +1 attaque jusqu'à la fin du tour et peut attaquer une fois de plus.
+XII. The Hanged Man;XII. Le Pendu;Regardez la première carte de chaque paquet. Vous pouvez le replacer en-dessous de leur paquet. Piochez ensuite 2 butins.
+XIII. Death;XIII. La Mort;Tuez un joueur.
+XIV. Temperance;XIV. La Tempérance;"Choisissez un effet : 
+- Subissez 1 dégât, gagnez 4c. 
+- Subissez 2 dégâts, gagnez 8c."
+XV. The Devil;XV. Le Diable;Détruisez un de vos objets : volez n'importe quel objet qu'un autre joueur contrôle, ou un objet du magasin.
+XVI. The Tower;XVI. La Tour;"Lancez un dé :
+1-2: tous les joueurs subissent 1 dégât. 
+3-4: tous les monstres subissent 1 dégât. 
+5-6: tous les joueurs subissent 2 dégâts."
+XVII. The Stars;XVII. Les Etoiles;Gagnez 1 trésor.
+XVIII. The Moon;XVIII. La Lune;Regardez les 5 premières cartes du paquet de butins. Placez-en 4 en-dessous du paquet et 1 au-dessus.
+XIX. The Sun;XIX. Le Soleil;Si c'est votre tour, jouez un tour supplémentaire après celui-ci. Placez cette carte sous le paquet de butins.
+XX. Judgement;XX. Le Jugement;Le joueur qui a le plus d'âmes doit en défausser une. En cas d'égalité, choisissez la cible.
+XXI. The World;XXI. Le Monde;Regardez la main de tous les joueurs. Piochez ensuite 2 butins.

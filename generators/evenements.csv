@@ -1,0 +1,77 @@
+Monstres - Evénements;;
+Ambush!;;Vous devez attaquer le paquet de monstres 2 fois ce tour.
+Chest (gain c);;"Lancez un dé :
+1-2: gagnez 1c.
+3-4: gagnez 3c.
+5-6: gagnez 6c."
+Chest (loot);;"Lancez un dé :
+1-2: piochez 1 butin.
+3-4: piochez 2 butins.
+5-6: piochez 3 butins."
+Curse of amnesia;;"Quand cette carte est révélée, donnez-la à un joueur.
+A la fin de votre tour, défaussez 2 butins.
+Quand vous mourrez, défaussez cette carte."
+Curse of fatigue;;"Quand cette carte est révélée, donnez-la à un joueur.
+Au début de votre tour, vous ne pouvez recharger qu'un seul trésor.
+Quand vous mourrez, défaussez cette carte."
+Curse of greed;;"Quand cette carte est révélée, donnez-la à un joueur.
+A la fin de votre tour, perdez 4c.
+Quand vous mourrez, défaussez cette carte."
+Curse of pain;;"Quand cette carte est révélée, donnez-la à un joueur.
+Au début de votre tour, subissez 1 dégât.
+Quand vous mourrez, défaussez cette carte."
+Curse of the blind;;"Quand cette carte est révélée, donnez-la à un joueur.
+Tous les monstres que vous attaquez gagnent +1 dé jusqu'à la fin du tour.
+Quand vous mourrez, défaussez cette carte."
+Curse of the loss;;"Quand cette carte est révélée, donnez-la à un joueur.
+Quand vous mourrez, défaussez une âme.
+Quand vous mourrez, défaussez cette carte."
+Curse of tiny hands;;"Quand cette carte est révélée, donnez-la à un joueur.
+A la fin de votre tour, défaussez des butins jusqu'à n'en avoir plus que 2.
+Quand vous mourrez, défaussez cette carte."
+Cursed chest;;"Lancez un dé :
+1-3: subissez 1 dégât.
+4-5: subissez 2 dégâts.
+6: Cherchez dans le paquet de trésors un trésor de Guppy de votre choix, gagnez-le, puis mélangez le paquet."
+Dark chest (c loot);;"Lancez un dé :
+1-2: gagnez 1c.
+3-4: piochez 2 butins.
+5-6: subissez 2 dégâts."
+Dark chest (loot c);;"Lancez un dé :
+1-2 : piochez 1 butin.
+3-4: gagnez 3c.
+5-6: subissez 2 dégâts."
+Devil deal;;"Choisissez un effet :
+- Défaussez cette carte.
+- Piochez 2 butins et subissez 1 dégât.
+- Cherchez dans le paquet de trésors un trésor de Guppy de votre choix, gagnez-le et subissez 2 dégâts, puis mélangez le paquet."
+Gold chest (gain c);;"Lancez un dé :
+1-2: gagnez 1 trésor.
+3-4: gagnez 5c.
+5-6: gagnez 7c."
+Gold chest (loot);;"Lancez un dé :
+1-2: gagnez 1 trésor.
+3-4: piochez 1 butin.
+5-6: piochez 2 butins."
+Greed!;;Le joueur qui a le plus de pièces les perd toutes. En cas d'égalité, choisissez la cible.
+I AM ERROR!;;"Lancez un dé :
+1-2: vous devez faire une attaque supplémentaire sur le paquet de monstres.
+3-4: piochez 3 butins.
+5-6: gagnez 1 trésor."
+I can see forever!;;Regardez les 6 premières cartes du paquet de butins, replacez-les dans l'ordre de votre choix, puis piochez 1 butin.
+Mega troll bomb!;;Tous les joueurs subissent 2 dégâts.
+Secret room!;;"Lancez un dé :
+1: subissez 3 dégâts.
+2-3: défaussez 2 butins.
+4-5: gagnez 7c.
+6: gagnez 1 trésor."
+Shop upgrade!;;"Augmentez le nombre d'emplacements dans le magasin de 2.
+Vous pouvez attaquer une fois de plus jusqu'à la fin du tour."
+Trap door!;;"Lancez un dé :
+1-3: regardez les trois premières cartes du paquet de monstres puis replacez-les dans l'ordre de votre choix. Vous pouvez attaquer une fois de plus jusqu'à la fin du tour.
+4-6: subissez 1 dégât."
+Troll bombs;;Subissez 2 dégâts.
+We need to go deeper;;"Replacez autant de monstres défaussés que vous souhaitez au-dessus du paquet de monstres.
+Vous pouvez attaquer une fois de plus jusqu'à la fin du tour."
+XL floor!;;"Augmentez le nombre d'emplacements de monstres de 1.
+Vous pouvez attaquer une fois de plus jusqu'à la fin du tour."
