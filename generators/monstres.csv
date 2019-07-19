@@ -1,160 +1,159 @@
-Monstres;;;;
-Begotten;;Piochez 2 butins.;Quand ce monstre est à 1 santé, il gagne +1 attaque jusqu'à la fin du tour.;
-Big spider;;Piochez 1 butin.;Quand ce monstre meurt, vous pouvez faire une attaque supplémentaire sur le paquet de monstres.;
+Begotten;;Piochez 2 butins.;Quand ce monstre est à 1 santé, il gagne +1 attaque jusqu'à la fin du tour.;$
+Big spider;;Piochez 1 butin.;Quand ce monstre meurt, vous pouvez faire une attaque supplémentaire sur le paquet de monstres.;$
 Black bony;;"Lancez un dé :
-Piochez autant de butins.";Quand ce monstre meurt, il inflige 1 dégât au joueur qui l'a tué.;
-Boil;;Gagnez 3c.;Quand ce monstre inflige des dégâts, il se soigne de 1 santé.;
-Boom fly;;Gagnez 4c.;Quand ce monstre meurt, tous les joueurs subissent 1 dégât.;
+Piochez autant de butins.";Quand ce monstre meurt, il inflige 1 dégât au joueur qui l'a tué.;$
+Boil;;Gagnez 3c.;Quand ce monstre inflige des dégâts, il se soigne de 1 santé.;$
+Boom fly;;Gagnez 4c.;Quand ce monstre meurt, tous les joueurs subissent 1 dégât.;$
 Carrion queen;;"Gagnez 1 trésor.
-Gagnez 1 âme.";Ce monstre ne subit aucun dégât sur un lancer d'attaque à 4 ou 5.;
-Charger;;Gagnez 3c.;;
+Gagnez 1 âme.";Ce monstre ne subit aucun dégât sur un lancer d'attaque à 4 ou 5.;$
+Charger;;Gagnez 3c.;;$
 Chub;;"Gagnez 7c.
-Gagnez 1 âme.";Quand le joueur attaquant fait un 1, ce monstre se soigne de 2 santé.;
-Clotty;;Gagnez 4c.;;
-Cod worm;;Gagnez 3c.;;
-Coinjoined fatty;;Piochez 2 butins.;;
+Gagnez 1 âme.";Quand le joueur attaquant fait un 1, ce monstre se soigne de 2 santé.;$
+Clotty;;Gagnez 4c.;;$
+Cod worm;;Gagnez 3c.;;$
+Coinjoined fatty;;Piochez 2 butins.;;$
 Conquest;;"Gagnez 6c.
-Gagnez 1 âme.";Quand ce monstre meurt, le joueur actif doit faire une attaque supplémentaire.;
-Cursed fatty;;Piochez 2 cartes.;Quand un joueur fait un 5, il défausse un butin.;
-Cursed gaper;;Gagnez 3c.;Quand un joueur fait un 4, tous les monstres actifs gagnent +1 attaque jusqu'à la fin du tour.;
-Cursed horf;;Gagnez 3c.;Quand un joueur fait un 2, il subit 2 dégâts.;
+Gagnez 1 âme.";Quand ce monstre meurt, le joueur actif doit faire une attaque supplémentaire.;$
+Cursed fatty;;Piochez 2 cartes.;Quand un joueur fait un 5, il défausse un butin.;$
+Cursed gaper;;Gagnez 3c.;Quand un joueur fait un 4, tous les monstres actifs gagnent +1 attaque jusqu'à la fin du tour.;$
+Cursed horf;;Gagnez 3c.;Quand un joueur fait un 2, il subit 2 dégâts.;$
 Cursed keeper head;;"Lancez un dé :
-Gagnez autant de pièces.";Quand un joueur fait un 1, il perd 2c.;
-Cursed Mom's hand;;Gagnez 4c.;Quand un joueur fait un 6, terminez son tour.;
-Cursed psy horf;;Piochez 2 butins.;Quand un joueur active un trésor, il subit 1 dégât.;
+Gagnez autant de pièces.";Quand un joueur fait un 1, il perd 2c.;$
+Cursed Mom's hand;;Gagnez 4c.;Quand un joueur fait un 6, terminez son tour.;$
+Cursed psy horf;;Piochez 2 butins.;Quand un joueur active un trésor, il subit 1 dégât.;$
 Daddy long legs;;"Gagnez 7c.
-Gagnez 1 âme.";Quand le joueur attaquant fait un 1, tous les monstres gagnent +1 dé jusqu'à la fin du tour.;
+Gagnez 1 âme.";Quand le joueur attaquant fait un 1, tous les monstres gagnent +1 dé jusqu'à la fin du tour.;$
 Dank goblin;;Piochez 2 butins.;"Quand ce monstre meurt, choisissez un joueur :
-Il défausse 2 butins.";
+Il défausse 2 butins.";$
 Dark one;;"Gagnez 1 trésor.
-Gagnez 1 âme.";Quand ce monstre subit des dégâts, il gagne +1 attaque jusqu'à la fin du tour.;
+Gagnez 1 âme.";Quand ce monstre subit des dégâts, il gagne +1 attaque jusqu'à la fin du tour.;$
 Death;;"Gagnez 1 trésor.
-Gagnez 1 âme.";Quand ce monstre meurt, le joueur actif doit tuer un joueur.;
+Gagnez 1 âme.";Quand ce monstre meurt, le joueur actif doit tuer un joueur.;$
 Death's head;;Piochez 1 butin.;"Tous les autres monstres gagnent +1 attaque tant que ce monstre est actif.
-Ce monstre ne peut pas être attaqué. Quand un autre monstre actif meurt, ce monstre meurt.";
+Ce monstre ne peut pas être attaqué. Quand un autre monstre actif meurt, ce monstre meurt.";$
 Delirium;;Gagnez 2 trésors.;"Quand ce monstre meurt, replacez-le à 6 cartes du dessus du paquet de monstres.
-Tous les autres monstres gagnent +1 dé tant que ce monstre est actif. ";
+Tous les autres monstres gagnent +1 dé tant que ce monstre est actif. ";$
 Dinga;;"Lancez un dé :
-Gagnez autant de pièces.";Quand ce monstre meurt sur un lancer d'attaque à 6, doublez ses récompenses.;
-Dip;;Gagnez 1c.;;
-Dople;;Gagnez 7c.;Quand ce monstre subit des dégâts, infligez-les aussi au joueur à votre droite.;
+Gagnez autant de pièces.";Quand ce monstre meurt sur un lancer d'attaque à 6, doublez ses récompenses.;$
+Dip;;Gagnez 1c.;;$
+Dople;;Gagnez 7c.;Quand ce monstre subit des dégâts, infligez-les aussi au joueur à votre droite.;$
 Envy;;"Gagnez 1c.
-Gagnez 1 âme.";Quand ce monstre meurt, le joueur actif doit faire une attaque supplémentaire.;
-Evil twin;;Gagnez 1 trésor.;Quand ce monstre subit des dégâts, infligez-les aussi au joueur à votre gauche.;
+Gagnez 1 âme.";Quand ce monstre meurt, le joueur actif doit faire une attaque supplémentaire.;$
+Evil twin;;Gagnez 1 trésor.;Quand ce monstre subit des dégâts, infligez-les aussi au joueur à votre gauche.;$
 Famine;;"Piochez 3 butins.
-Gagnez 1 âme.";Quand ce monstre meurt, le joueur actif saute son prochain tour.;
-Fat bat;;Gagnez 1 trésor.;;
-Fatty;;Piochez 1 butin.;;
+Gagnez 1 âme.";Quand ce monstre meurt, le joueur actif saute son prochain tour.;$
+Fat bat;;Gagnez 1 trésor.;;$
+Fatty;;Piochez 1 butin.;;$
 Fistula;;"Gagnez 7c.
-Gagnez 1 âme.";Quand ce monstre subit des dégâts, il gagne +1 dé jusqu'à la fin du tour.;
-Fly;;Gagnez 1c.;;
-Gaper;;Gagnez 3c.;Quand ce monstre meurt sur un lancer d'attaque à 6, vous pouvez faire une attaque supplémentaire sur le paquet de monstres.;
+Gagnez 1 âme.";Quand ce monstre subit des dégâts, il gagne +1 dé jusqu'à la fin du tour.;$
+Fly;;Gagnez 1c.;;$
+Gaper;;Gagnez 3c.;Quand ce monstre meurt sur un lancer d'attaque à 6, vous pouvez faire une attaque supplémentaire sur le paquet de monstres.;$
 Gemini;;"Gagnez 5c.
-Gagnez 1 âme.";Quand ce monstre est à 1 santé, il gagne +1 attaque jusqu'à la fin du tour.;
+Gagnez 1 âme.";Quand ce monstre est à 1 santé, il gagne +1 attaque jusqu'à la fin du tour.;$
 Gluttony;;"Piochez 1 butin.
-Gagnez 1 âme.";Quand le joueur attaquant fait un 6 et inflige des dégâts à ce monstre, il inflige 1 dégât au joueur à votre gauche.;
+Gagnez 1 âme.";Quand le joueur attaquant fait un 6 et inflige des dégâts à ce monstre, il inflige 1 dégât au joueur à votre gauche.;$
 Greed;;"Gagnez 9c.
-Gagnez 1 âme.";Quand ce monstre inflige des dégâts, tous les joueurs perdent 4c.;
+Gagnez 1 âme.";Quand ce monstre inflige des dégâts, tous les joueurs perdent 4c.;$
 Greedling;;Gagnez 7c.;"Quand ce monstre meurt, choisissez un joueur :
-Il perd 7c.";
+Il perd 7c.";$
 Gurdy;;"Gagnez 7c.
-Gagnez 1 âme.";;
+Gagnez 1 âme.";;$
 Gurdy Jr.;;"Gagnez 1 trésor.
-Gagnez 1 âme.";Quand le joueur attaquant active un trésor, il subit 1 dégât.;
+Gagnez 1 âme.";Quand le joueur attaquant active un trésor, il subit 1 dégât.;$
 Gurglings;;"Piochez 2 butins.
-Gagnez 1 âme.";Quand ce monstre est à 2 santé ou moins, il gagne -1 dé jusqu'à la fin du tour.;
-Hanger;;Gagnez 7c.;Quand ce monstre meurt, augmentez le nombre d'emplacements dans le magasin de 1.;
+Gagnez 1 âme.";Quand ce monstre est à 2 santé ou moins, il gagne -1 dé jusqu'à la fin du tour.;$
+Hanger;;Gagnez 7c.;Quand ce monstre meurt, augmentez le nombre d'emplacements dans le magasin de 1.;$
 Holy dinga;;"Lancez un dé :
-Gagnez autant de pièces.";Quand un joueur fait un 6, il se soigne de 1 santé.;
-Holy dip;;Gagnez 1c.;Quand un joueur fait un 1, il gagne 1c.;
+Gagnez autant de pièces.";Quand un joueur fait un 6, il se soigne de 1 santé.;$
+Holy dip;;Gagnez 1c.;Quand un joueur fait un 1, il gagne 1c.;$
 Holy keeper head;;"Lancez un dé :
-Gagnez autant de pièces.";Quand un joueur fait un 4, il gagne 2c.;
-Holy Mom's eye;;Piochez 1 butin.;Quand un joueur fait un 2, il peut recharger un trésor.;
-Holy squirt;;Piochez 2 butins.;Quand un joueur fait un 5, il pioche 1 butin.;
-Hopper;;Gagnez 3c.;Ce monstre ne subit aucun dégât sur un lancer d'attaque à 6.;
-Horf;;Gagnez 3c.;Quand le joueur attaquant fait un 2, ce monstre lui inflige 1 dégât de plus.;
+Gagnez autant de pièces.";Quand un joueur fait un 4, il gagne 2c.;$
+Holy Mom's eye;;Piochez 1 butin.;Quand un joueur fait un 2, il peut recharger un trésor.;$
+Holy squirt;;Piochez 2 butins.;Quand un joueur fait un 5, il pioche 1 butin.;$
+Hopper;;Gagnez 3c.;Ce monstre ne subit aucun dégât sur un lancer d'attaque à 6.;$
+Horf;;Gagnez 3c.;Quand le joueur attaquant fait un 2, ce monstre lui inflige 1 dégât de plus.;$
 Hush;;"Gagnez 2 trésors.
-Gagnez 2 âmes.";;
+Gagnez 2 âmes.";;$
 Imp;;"Lancez un dé :
-Piochez autant de butins.";Quand le joueur attaquant fait un 3, ce monstre gagne +1 dé jusqu'à la fin du tour.;
+Piochez autant de butins.";Quand le joueur attaquant fait un 3, ce monstre gagne +1 dé jusqu'à la fin du tour.;$
 Keeper head;;"Lancez un dé :
-Gagnez autant de pièces.";Quand ce monstre inflige des dégâts, il perd 2c.;
-Knight;;Piochez 2 butins.;Ce monstre subit aussi des dégâts en faisant un lancez d'attaque à 1.;
+Gagnez autant de pièces.";Quand ce monstre inflige des dégâts, il perd 2c.;$
+Knight;;Piochez 2 butins.;Ce monstre subit aussi des dégâts en faisant un lancez d'attaque à 1.;$
 Larry Jr.;;"Gagnez 6c.
-Gagnez 1 âme.";Quand ce monstre est à 2 santé ou moins, il gagne +1 dé jusqu'à la fin du tour.;
-Leaper;;Gagnez 5c.;Quand le joueur attaquant fait un 1, ce monstre inflige deux fois plus de dégâts.;
-Leech;;Piochez 1 butin.;;
+Gagnez 1 âme.";Quand ce monstre est à 2 santé ou moins, il gagne +1 dé jusqu'à la fin du tour.;$
+Leaper;;Gagnez 5c.;Quand le joueur attaquant fait un 1, ce monstre inflige deux fois plus de dégâts.;$
+Leech;;Piochez 1 butin.;;$
 Little horn;;"Piochez 2 butins.
-Gagnez 1 âme.";;
+Gagnez 1 âme.";;$
 Lust;;"Piochez 2 butins.
-Gagnez 1 âme.";Quand ce monstre subit des dégâts par une attaque, il inflige 1 dégât au joueurs attaquant.;
+Gagnez 1 âme.";Quand ce monstre subit des dégâts par une attaque, il inflige 1 dégât au joueurs attaquant.;$
 Mask of infamy;;"Gagnez 1 trésor.
-Gagnez 1 âme.";Quand ce monstre est à 1 santé, il gagne +2 dé jusqu'à la fin du tour.;
+Gagnez 1 âme.";Quand ce monstre est à 1 santé, il gagne +2 dé jusqu'à la fin du tour.;$
 Mega Fatty;;"Piochez 2 butins.
-Gagnez 1 âme.";Quand ce monstre inflige des dégâts, il se soigne de 1 santé.;
+Gagnez 1 âme.";Quand ce monstre inflige des dégâts, il se soigne de 1 santé.;$
 Mom!;;"Gagnez 1 trésor.
 Gagnez 2 âmes.";"Quand le joueur attaquant fait un 1, ce monstre inflige deux fois plus de dégâts.
-Quand ce monstre meurt, augmentez le nombre d'emplacements de monstres de 1.";
-Mom's dead hand;;Gagnez 4c.;Quand ce monstre meurt, vous pouvez voler un trésor à un joueur.;
-Mom's eye;;Piochez 1 butin.;Quand ce monstre meurt, vous pouvez regarder la main d'un joueur.;
-Mom's hand;;Gagnez 4c.;Quand le joueur attaquant fait un 6, annulez le combat et terminez le tour.;
+Quand ce monstre meurt, augmentez le nombre d'emplacements de monstres de 1.";$
+Mom's dead hand;;Gagnez 4c.;Quand ce monstre meurt, vous pouvez voler un trésor à un joueur.;$
+Mom's eye;;Piochez 1 butin.;Quand ce monstre meurt, vous pouvez regarder la main d'un joueur.;$
+Mom's hand;;Gagnez 4c.;Quand le joueur attaquant fait un 6, annulez le combat et terminez le tour.;$
 Monstro;;"Gagnez 6c.
-Gagnez 1 âme.";;
-Mulliboom;;Gagnez 6c.;Quand ce monstre meurt, infligez 3 dégâts à un joueur.;
-Mulligan;;Gagnez 3c.;Quand ce monstre meurt, augmentez le nombre d'emplacements de monstres de 1.;
-Pale fatty;;Gagnez 6c.;;
-Parabite;;Piochez 1 butin.;Quand ce monstre subit des dégâts, le prochain lancer de dé du joueur attaquant est réduit de 1 jusqu'à la fin du tour.;
+Gagnez 1 âme.";;$
+Mulliboom;;Gagnez 6c.;Quand ce monstre meurt, infligez 3 dégâts à un joueur.;$
+Mulligan;;Gagnez 3c.;Quand ce monstre meurt, augmentez le nombre d'emplacements de monstres de 1.;$
+Pale fatty;;Gagnez 6c.;;$
+Parabite;;Piochez 1 butin.;Quand ce monstre subit des dégâts, le prochain lancer de dé du joueur attaquant est réduit de 1 jusqu'à la fin du tour.;$
 Peep;;"Gagnez 1 trésor.
-Gagnez 1 âme.";"Quand ce monstre meurt, rechercher dans le paquet de monstres ""The bloat"" et placez-le dans un emplacement actif, puis mélangez le paquet de monstres.";
+Gagnez 1 âme.";"Quand ce monstre meurt, rechercher dans le paquet de monstres ""The bloat"" et placez-le dans un emplacement actif, puis mélangez le paquet de monstres.";$
 Pestilence;;"Piochez 2 butins.
-Gagnez 1 âme.";Quand ce monstre meurt, répartissez 2 dégâts selon votre choix sur les joueurs et monstres. ;
+Gagnez 1 âme.";Quand ce monstre meurt, répartissez 2 dégâts selon votre choix sur les joueurs et monstres. ;$
 Pin;;"Gagnez 5c.
-Gagnez 1 âme.";Quand le joueur attaquant fait un 6, ce monstre ne subit aucun dégât.;
-Pooter;;Piochez 1 butin.;;
-Portal;;Gagnez 3c.;Quand ce monstre meurt, vous devez faire une attaque supplémentaire.;
+Gagnez 1 âme.";Quand le joueur attaquant fait un 6, ce monstre ne subit aucun dégât.;$
+Pooter;;Piochez 1 butin.;;$
+Portal;;Gagnez 3c.;Quand ce monstre meurt, vous devez faire une attaque supplémentaire.;$
 Pride;;"Gagnez 5c.
-Gagnez 1 âme.";Quand vous attaquez ce monstre, vous devez forcer un joueur à défausser 2 butins.;
-Psy Horf;;Piochez 1 butin.;Quand ce monstre meurt, rechargez tous vos trésors.;
+Gagnez 1 âme.";Quand vous attaquez ce monstre, vous devez forcer un joueur à défausser 2 butins.;$
+Psy Horf;;Piochez 1 butin.;Quand ce monstre meurt, rechargez tous vos trésors.;$
 Rag man;;"Piochez 3 butins.
 Gagnez 1 âme.";"Quand ce monstre meurt, après avoir gagné les récompenses, lancez un dé :
-Si vous faites un 1 ou un 6, remettez ce monstre au-dessus du paquet de monstres.";
-Rage creep;;Piochez 2 butins.;Quand ce monstre inflige des dégâts, il en inflige aussi au joueurs à votre droite.;
+Si vous faites un 1 ou un 6, remettez ce monstre au-dessus du paquet de monstres.";$
+Rage creep;;Piochez 2 butins.;Quand ce monstre inflige des dégâts, il en inflige aussi au joueurs à votre droite.;$
 Ragling;;Piochez 1 butin.;"Quand ce monstre meurt, après avoir gagné les récompenses, lancez un dé :
-Si vous faites un 1 ou un 6, remettez ce monstre au-dessus du paquet de monstres.";
-Red host;;Gagnez 5c.;;
+Si vous faites un 1 ou un 6, remettez ce monstre au-dessus du paquet de monstres.";$
+Red host;;Gagnez 5c.;;$
 Ring of flies;;Gagnez 3c.;"Quand le joueur attaquant fait un 3, choisissez un joueur :
-Volez un butin aléatoire de sa main.";
-Round worm;;Gagnez 4c.;Quand ce monstre inflige des dégâts, le joueur attaquant gagne +1 à son prochain lancer d'attaque jusqu'à la fin du tour.;
+Volez un butin aléatoire de sa main.";$
+Round worm;;Gagnez 4c.;Quand ce monstre inflige des dégâts, le joueur attaquant gagne +1 à son prochain lancer d'attaque jusqu'à la fin du tour.;$
 Satan!;;"Gagnez 2 trésors.
-Gagnez 2 âmes.";Quand le joueur attaquant fait un 6, il doit tuer un joueur.;
+Gagnez 2 âmes.";Quand le joueur attaquant fait un 6, il doit tuer un joueur.;$
 Scolex;;"Gagnez 1 trésor.
-Gagnez 1 âme.";Quand ce monstre inflige des dégâts, le joueur attaquant défausse 1 butin.;
+Gagnez 1 âme.";Quand ce monstre inflige des dégâts, le joueur attaquant défausse 1 butin.;$
 Sloth;;"Gagnez 1c.
-Gagnez 1 âme.";Quand ce monstre meurt, le joueur qui l'a tué défausse sa main.;
-Spider;;Piochez 1 butin.;;
-Squirt;;Piochez 1 butin.;;
+Gagnez 1 âme.";Quand ce monstre meurt, le joueur qui l'a tué défausse sa main.;$
+Spider;;Piochez 1 butin.;;$
+Squirt;;Piochez 1 butin.;;$
 Steven;;"Gagnez 1 trésor.
 Gagnez 1 âme.";"Quand le joueur attaquant fait un 2, il subit 2 dégâts.
-Quand le joueur attaquant fait un 6, annulez le combat et terminez le tour.";
+Quand le joueur attaquant fait un 6, annulez le combat et terminez le tour.";$
 Stoney;;Piochez 1 butin.;"Tous les autres monstres gagnent +1 dé tant que ce monstre est actif.
-Ce monstre ne peut pas être attaqué. Quand un autre monstre actif meurt, ce monstre meurt.";
-Swarm of flies;;Gagnez 5c;Quand le joueur attaquant fait un 5, il subit 1 dégât.;
+Ce monstre ne peut pas être attaqué. Quand un autre monstre actif meurt, ce monstre meurt.";$
+Swarm of flies;;Gagnez 5c;Quand le joueur attaquant fait un 5, il subit 1 dégât.;$
 The bloat;;"Gagnez 1 trésor.
-Gagnez 1 âme.";Quand ce monstre inflige des dégâts, il inflige aussi 1 dégât à tous les autres joueurs.;
+Gagnez 1 âme.";Quand ce monstre inflige des dégâts, il inflige aussi 1 dégât à tous les autres joueurs.;$
 The cage;;"Gagnez 2 trésors.
-Gagnez 1 âme.";;
+Gagnez 1 âme.";;$
 The duke of flies;;"Piochez 2 butins.
 Gagnez 1 âme.";"Quand ce monstre subit des dégâts, lancez un dé :
-Si vous faites un 1, annulez ces dégâts.";
+Si vous faites un 1, annulez ces dégâts.";$
 The haunt;;"Gagnez 1 trésor.
-Gagnez 1 âme.";Quand ce monstre subit 2 dégâts, il gagne +1 dé jusqu'à la fin du tour.;
+Gagnez 1 âme.";Quand ce monstre subit 2 dégâts, il gagne +1 dé jusqu'à la fin du tour.;$
 The lamb;;"Gagnez 3c.
-Gagnez 1 âme.";Quand ce monstre meurt, vous pouvez forcer un joueur à vous donner 1 âme (ou 2 s'il ne peut pas en donner qu'une).;
-Trite;;Piochez 2 butins.;;
+Gagnez 1 âme.";Quand ce monstre meurt, vous pouvez forcer un joueur à vous donner 1 âme (ou 2 s'il ne peut pas en donner qu'une).;$
+Trite;;Piochez 2 butins.;;$
 War;;"Gagnez 8c.
-Gagnez 1 âme.";Quand ce monstre subit des dégâts, il gagne +1 attaque jusqu'à la fin du tour.;
-Wizoob;;Piochez 3 butins.;Quand ce monstre meurt, vous pouvez forcer un joueur à défausser une âme.;
+Gagnez 1 âme.";Quand ce monstre subit des dégâts, il gagne +1 attaque jusqu'à la fin du tour.;$
+Wizoob;;Piochez 3 butins.;Quand ce monstre meurt, vous pouvez forcer un joueur à défausser une âme.;$
 Wrath;;"Gagnez 6c.
 Gagnez 1 âme.";"Quand ce monstre meurt, lancez un dé :
 1-3: tous les joueurs subissent 1 dégât.
-4-6: tous les joueurs subissent 2 dégâts.";
+4-6: tous les joueurs subissent 2 dégâts.";$
