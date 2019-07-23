@@ -4,28 +4,48 @@ const {promises: fs} = require('fs');
     const dirPath = 'generators';
     const dir = await fs.readdir(dirPath);
     const cards = await Promise.all(
-        dir.map(async card => {
+        dir.filter(card => !card.match(/.js$/)).map(async card => {
             const file = await fs.readFile(dirPath + '/' + card);
-            const famillyCard = await Promise.all(
-                file.toString().split('$').map(async line => {
+            const dir = await fs.readdir('public/cards');
+            const famillyCard = file.toString().split('$')
+                .filter(line => line.split(';').length >= 3 )
+                .map(line => {
                     const elements = line.split(';');
-                    const dir = await fs.readdir('public/cards');
-                    dir.forEach(img => {
-                        
+                    const words = elements[0].replace(/\r\n/g, '').split(' ').sort((a, b) => b.length - a.length)
+                    let potentialImg = dir.filter(img => {
+                        return img.toLowerCase().includes(words[0].toLowerCase().replace('\'', '').replace('.', ''))
                     });
+                    if(potentialImg.length > 1 && words[1]){
+                        potentialImg = potentialImg.filter(img => {
+                            return img.toLowerCase().includes(words[1].toLowerCase().replace('\'', '').replace('.', ''))
+                        });
+                    } else if(potentialImg.length <= 0 && words[1]){
+                        potentialImg = dir.filter(img => {
+                            return img.toLowerCase().includes(words[1].toLowerCase().replace('\'', '').replace('.', ''))
+                        });
+                    }
+                    if(potentialImg.length > 1 && words[2]){
+                        potentialImg = potentialImg.filter(img => {
+                            return img.toLowerCase().includes(words[2].toLowerCase().replace('\'', '').replace('.', ''))
+                        });
+                    } else if(potentialImg.length <= 0 && words[2]){
+                        potentialImg = dir.filter(img => {
+                            return img.toLowerCase().includes(words[2].toLowerCase().replace('\'', '').replace('.', ''))
+                        });
+                    }
                     return {
-                        originalName: elements[0],
-                        translatedName: elements[1],
-                        translatedText: elements[2]
+                        originalName: elements[0].replace(/\r\n/g, ''),
+                        translatedName: elements[1].replace(/\r\n/g, ''),
+                        translatedText: elements[2].replace(/\r\n/g, '').replace(/"/g, ''),
+                        img: potentialImg[0]
                     };
-                })
-            );
+                });
             return {
                 category: card.replace(/.csv/, ''),
                 cards: famillyCard
             };
         })
     );
-    console.log(cards);
+    //console.log(JSON.stringify(cards));
     await fs.writeFile('src/cards-data.json', JSON.stringify(cards));
 })()
