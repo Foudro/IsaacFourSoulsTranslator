@@ -10,7 +10,7 @@ VII. The Chariot;VII. Le Chariot;Un joueur gagne +1 attaque et +1 santé jusqu'�
 VIII. Justice;VIII. La Justice;"Choisissez un joueur :
 Piochez des butins et gagnez des pièces jusqu'à en avoir autant que lui.";$
 IX. The Hermit;IX. L'Hermite;Regardez les 5 premières cartes du paquet de trésors. Placez-en 4 en-dessous du paquet et 1 au-dessus.;$
-X. Wheel of Fortune;X. La Roue de la Fortune;"Lancez un dé : 
+X. Wheel Of Fortune;X. La Roue de la Fortune;"Lancez un dé : 
 1: gagnez 1c. 
 2: subissez 2 dégâts. 
 3: piochez 3 butins. 
@@ -20,11 +20,11 @@ X. Wheel of Fortune;X. La Roue de la Fortune;"Lancez un dé :
 XI. Strength;XI. La Force;Un joueur gagne +1 attaque jusqu'à la fin du tour et peut attaquer une fois de plus.;$
 XII. The Hanged Man;XII. Le Pendu;Regardez la première carte de chaque paquet. Vous pouvez le replacer en-dessous de leur paquet. Piochez ensuite 2 butins.;$
 XIII. Death;XIII. La Mort;Tuez un joueur.;$
-XIV. Temperance;XIV. La Tempérance;"Choisissez un effet : 
+XVI. Temperance;XVI. La Tempérance;"Choisissez un effet : 
 - Subissez 1 dégât, gagnez 4c. 
 - Subissez 2 dégâts, gagnez 8c.";$
 XV. The Devil;XV. Le Diable;Détruisez un de vos objets : volez n'importe quel objet qu'un autre joueur contrôle, ou un objet du magasin.;$
-XVI. The Tower;XVI. La Tour;"Lancez un dé :
+XIV. The Tower;XI014Breakfast. La Tour;"Lancez un dé :
 1-2: tous les joueurs subissent 1 dégât. 
 3-4: tous les monstres subissent 1 dégât. 
 5-6: tous les joueurs subissent 2 dégâts.";$

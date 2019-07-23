@@ -1,9 +1,9 @@
-9 volt;9 volt;Rechargez jusqu'à 2 de vos trésors à la fin de votre tour.;$
-Baby haunt;Bébé hanteur;"Tous les monstres que vous attaquez ont +1 dé jusqu'à la fin du tour. 
+9 Volt;9 volt;Rechargez jusqu'à 2 de vos trésors à la fin de votre tour.;$
+Baby Haunt;Bébé hanteur;"Tous les monstres que vous attaquez ont +1 dé jusqu'à la fin du tour. 
 Quand vous mourrez, avant de payer les pénalités, donnez ce trésor à un autre joueur.";$
-Belly button;Nombril;"Vous pouvez jouer 1 butin de plus durant votre tour. 
+Belly Button;Nombril;"Vous pouvez jouer 1 butin de plus durant votre tour. 
 Quand vous subissez des dégâts, vous pouvez recharger votre carte personnage.";$
-Bob's brain;Cerveau de Bob;"Quand vous démarrez un lancer d'attaque, lancez un dé : 
+Bob's Brain;Cerveau de Bob;"Quand vous démarrez un lancer d'attaque, lancez un dé : 
 1-2: infligez 1 dégât à un monstre. 
 3-4: infligez 1 dégât à un joueur. 
 5-6: subissez 1 dégât.";$
@@ -15,82 +15,82 @@ Gagnez les effets suivants selon le nombre de compteurs :
 1+: ajoutez +2 à votre premier lancer d'attaque à chaque tour. 
 10+: gagnez +1 attaque. 
 25+: vous pouvez attaquer autant de fois que vous le souhaitez.";$
-Cambion conception;Grossesse de cambion;"Quand vous subissez des dégâts, placez un compteur sur cette carte. 
+Cambion Conception;Grossesse de cambion;"Quand vous subissez des dégâts, placez un compteur sur cette carte. 
 Quand cette carte a 6 compteur, retirez-les et gagnez 1 trésor.";$
-Champion belt;Ceinture du champion;"Gagnez +1 attaque sur votre premier lancer d'attaque à chaque tour. 
+Champion Belt;Ceinture du champion;"Gagnez +1 attaque sur votre premier lancer d'attaque à chaque tour. 
 Vous pouvez attaquer une fois de plus durant votre tour.";$
-Charged baby;Bébé chargé;Quand un joueur fait un 2, vous pouvez recharger un trésor.;$
-Cheese gratter;Râpe à fromage;"Quand un joueur fait un 6, révélez la première carte d'un des paquets à tous les joueurs. 
+Charged Baby;Bébé chargé;Quand un joueur fait un 2, vous pouvez recharger un trésor.;$
+Cheese Gratter;Râpe à fromage;"Quand un joueur fait un 6, révélez la première carte d'un des paquets à tous les joueurs. 
 Défaussez-la ou replacez-la sur le dessus du paquet.";$
-Curse of the tower;Malédiction de la tour;"Quand vous subissez des dégâts, lancez un dé : 
+Curse Of The Tower;Malédiction de la tour;"Quand vous subissez des dégâts, lancez un dé : 
 1-3: tous les autres joueurs subissent 1 dégât. 
 4-6: infligez 1 dégât à un monstre actif.";$
-Daddy haunt;Papa hanteur;"Quand vous subissez des dégâts, subissez-en 1 de plus. 
+Daddy Haunt;Papa hanteur;"Quand vous subissez des dégâts, subissez-en 1 de plus. 
 Quand vous mourrez, avant de payer les pénalités, donnez ce trésor à un autre joueur.";$
-Dad's lost coin;La pièce perdue de papa;Quand un joueur fait un 1, vous pouvez forcer ce jouer à relancer le dé.;$
-Dark bum;Mendiant sombre;"Au début de votre tour, lancez un dé :
+Dad's Lost Coin;La pièce perdue de papa;Quand un joueur fait un 1, vous pouvez forcer ce jouer à relancer le dé.;$
+Dark Bum;Mendiant sombre;"Au début de votre tour, lancez un dé :
 1-2: gagnez 3c. 
 3-4: piochez 1 butin. 
 5-6: subissez 1 dégât.";$
-Dead bird;Oiseau mort;Quand un joueur fait un 3, vous pouvez regarder sa main et lui voler 1 butin.;$
+Dead Bird;Oiseau mort;Quand un joueur fait un 3, vous pouvez regarder sa main et lui voler 1 butin.;$
 Dinner;Dîner;Gagnez +1 santé.;$
-Dry baby;Bébé sec;Tous les dégâts que vous subissez sont réduits à 1.;$
-Eden's blessing;Bénédiction d'Eden;Si vous avez 0c à la fin de votre tour, gagnez 6c.;$
-Empty vessel;Coquille vide;"Si vous avez 0 butin en main, gagnez +1 attaque. 
+Dry Baby;Bébé sec;Tous les dégâts que vous subissez sont réduits à 1.;$
+Eden's Blessing;Bénédiction d'Eden;Si vous avez 0c à la fin de votre tour, gagnez 6c.;$
+Empty Vessel;Coquille vide;"Si vous avez 0 butin en main, gagnez +1 attaque. 
 Si vous avez 0c, gagnez +1 à tous vos lancers d'attaque.";$
-Eye of Greed;Œil de l'Avarice;Quand un joueur fait un 5, gagnez 3c.;$
-Fanny pack;Sac banane;Quand vous subissez des dégâts, piochez 1 butin.;$
+Eye Of Greed;Œil de l'Avarice;Quand un joueur fait un 5, gagnez 3c.;$
+Fanny Pack;Sac banane;Quand vous subissez des dégâts, piochez 1 butin.;$
 Finger!;Le doigt !;Quand un joueur fait un 2, vous pouvez voler un trésor de ce joueur. Si vous le faites, donnez-lui ensuite un de vos trésors.;$
-Goat head;Tête de chêvre;A la fin de votre tour, vous pouvez défausser autant de carte butin que vous voulez. Piochez-en ensuite autant.;$
-Greed's gullet;Gosier de l'Avarice;Quand vous mourrez, avant de payer les pénalités, gagnez 8c.;$
-Guppy's collar;Collier de Guppy;"Quand vous devez mourir, lancez un dé :
+Goat Head;Tête de chêvre;A la fin de votre tour, vous pouvez défausser autant de carte butin que vous voulez. Piochez-en ensuite autant.;$
+Greed's Gullet;Gosier de l'Avarice;Quand vous mourrez, avant de payer les pénalités, gagnez 8c.;$
+Guppy's Collar;Collier de Guppy;"Quand vous devez mourir, lancez un dé :
 1-3: vous ne mourrez pas, si c'était votre tour terminez-le immédiatement. 
 4-6: vous mourrez.";$
-Guppy's tail;La queue de Guppy;"Piochez +1 butin au début de votre tour. 
+Guppy's Tail;La queue de Guppy;"Piochez +1 butin au début de votre tour. 
 A la fin de votre tour, défaussez 1 butin.";$
 Infamy;Infamie;Vous ne subissez aucun dégât en faisant un lancer d'attaque à 1.;$
 Ipecac;Vomitif;"Gagnez +1 attaque. 
 Quand vous faites un lancer d'attaque à 6, infligez aussi 1 dégât à tous les autres joueurs.";$
 Meat!;De la viande !;Gagnez +1 à tous vos lancers d'attaque.;$
-Mom's box;La boîte de maman;Quand un joueur fait un 4, vous pouvez piocher 1 butin puis défausser 1 butin.;$
-Mom's coin purse;Porte-monnaie de maman;Piochez +1 butin au début de votre tour.;$
-Mom's knife;Le couteau de maman;"Gagnez +1 attaque. 
+Mom's Box;La boîte de maman;Quand un joueur fait un 4, vous pouvez piocher 1 butin puis défausser 1 butin.;$
+Mom's Coin purse;Porte-monnaie de maman;Piochez +1 butin au début de votre tour.;$
+Mom's Knife;Le couteau de maman;"Gagnez +1 attaque. 
 Quand vous blessez un monstre en faisant un lancer d'attaque à 6, infligez 1 dégât à tous les autres monstres actifs.";$
-Mom's purse;Sac de maman;Piochez +1 butin au début de votre tour.;$
-Mom's razor;Rasoir de maman;Quand un joueur fait un 6, vous pouvez lui infliger 1 dégât.;$
-Monstro's tooth;Dent de Monstro;Au début de votre tour, un joueur est ciblé au hasard. Ce joueur doit détruire un de ses trésors.;$
-More options;Plus de choix;"Au début de votre tour, vous pouvez regarder les 2 premières cartes du paquet de trésors. 
+Mom's Purse;Sac de maman;Piochez +1 butin au début de votre tour.;$
+Mom's Razor;Rasoir de maman;Quand un joueur fait un 6, vous pouvez lui infliger 1 dégât.;$
+Monstro's Tooth;Dent de Monstro;Au début de votre tour, un joueur est ciblé au hasard. Ce joueur doit détruire un de ses trésors.;$
+More Options;Plus de choix;"Au début de votre tour, vous pouvez regarder les 2 premières cartes du paquet de trésors. 
 Vous pouvez acheter un trésor de plus durant votre tour.";$
 Placenta;Placenta;"Gagnez +1 santé. 
 Vous ne subissez aucun dégât si vous faites un lancer d'attaque à 4.";$
 Polydactyly;Polydactylie;"Vous pouvez jouer 1 butin de plus durant votre tour. 
 Gagnez +1 attaque sur votre premier lancer d'attaque à chaque tour.";$
 Restock;Réapprovisionnement;Au début de votre tour, vous pouvez défausser les trésors du magasin que vous voulez.;$
-Sacred heart;Cœur sacré;Quand vous faites un 1, vous pouvez le changer en 6.;$
+Sacred Heart;Cœur sacré;Quand vous faites un 1, vous pouvez le changer en 6.;$
 Shadow;Ombre;Quand un autre joueur meurt, vous choisissez quel trésor il détruit et vous récupérez tous les butins et pièces qu'il perd.;$
-Shiny rock;Caillou brillant;Quand vous activez un trésor, gagnez 1c.;$
-Skeleton key;Clef squelette;Vous pouvez attaquer jusqu'à 99 fois durant votre tour.;$
-Soy milk;Lait de soja;"Les monstres que vous attaquez gagnent +1 dé jusqu'à la fin du tour. 
+Shiny Rock;Caillou brillant;Quand vous activez un trésor, gagnez 1c.;$
+Skeleton Key;Clef squelette;Vous pouvez attaquer jusqu'à 99 fois durant votre tour.;$
+Soy Milk;Lait de soja;"Les monstres que vous attaquez gagnent +1 dé jusqu'à la fin du tour. 
 Quand vous infligez des dégâts à un monstre en faisant un lancer d'attaque, infligez aussi 1 dégât à tous les autres monstres actifs.";$
-Spider mod;Araignée modifiée;Quand un joueur fait un 5, défaussez un monstre actif non-attaqué et remplacez-le par la première carte du paquet de monstres.;$
-Starter deck;Paquet de cartes;Si vous avez 8 butins ou plus en main à la fin de votre tour, piochez 2 butins.;$
-Steamy sale!;Soldes démentes !;Vous pouvez acheter des trésors pour 5c.;$
-Suicide king;Roi du suicide;Quand vous mourrez, avant de payer les pénalités, piochez 3 butins.;$
+Spider Mod;Araignée modifiée;Quand un joueur fait un 5, défaussez un monstre actif non-attaqué et remplacez-le par la première carte du paquet de monstres.;$
+Starter Deck;Paquet de cartes;Si vous avez 8 butins ou plus en main à la fin de votre tour, piochez 2 butins.;$
+Steamy Sale!;Soldes démentes !;Vous pouvez acheter des trésors pour 5c.;$
+Suicide King;Roi du suicide;Quand vous mourrez, avant de payer les pénalités, piochez 3 butins.;$
 Synthoil;Huile synthétique;Gagnez +1 à tous vos lancers d'attaque.;$
-Tarot cloth;Tapis de tarot;Quand un joueur fait un 4, ce joueur doit vous donner 1 butin de sa main (de son choix).;$
-The blue map;La carte bleue;A la fin de votre tour, regardez les 4 premières cartes du paquet de trésors. Replacez-les dans l'ordre de votre choix.;$
-The chest;Le coffre;Si ce trésor est détruit, il devient une âme pour son propriétaire.;$
-The compass;La boussole;A la fin de votre tour, regardez les 4 premières cartes du paquet de butins. Replacez-les dans l'ordre de votre choix.;$
+Tarot Cloth;Tapis de tarot;Quand un joueur fait un 4, ce joueur doit vous donner 1 butin de sa main (de son choix).;$
+The Blue Map;La carte bleue;A la fin de votre tour, regardez les 4 premières cartes du paquet de trésors. Replacez-les dans l'ordre de votre choix.;$
+The Chest;Le coffre;Si ce trésor est détruit, il devient une âme pour son propriétaire.;$
+The Compass;La boussole;A la fin de votre tour, regardez les 4 premières cartes du paquet de butins. Replacez-les dans l'ordre de votre choix.;$
 The D10;Le dé à 10 faces;Quand un joueur fait un 3, vous pouvez placer la première carte du paquet de monstres dans un emplacement actif non-attaqué.;$
-The dead cat;Le chat mort;"Ce trésor démarre avec 9 compteurs. 
+The Dead Cat;Le chat mort;"Ce trésor démarre avec 9 compteurs. 
 Quand vous subissez des dégâts, retirez autant de compteurs que de points de dégâts pour les prévenir. 
 Ce trésor compte comme un trésor de Guppy.";$
-The habit;L'habit;Quand vous subissez des dégâts pour la première fois à chaque tour, vous pouvez recharger un trésor.;$
-The map;La carte;A la fin de votre tour, regardez les 4 premières cartes du paquet de monstres. Replacez-les dans l'ordre de votre choix.;$
-The Midas touch;Le toucher de Midas;Quand un monstre est tué, gagnez 3c.;$
-The missing page;La page manquante;Quand un joueur fait un 5, vous pouvez forcer ce joueur à relancer le dé.;$
-The polaroid;Le polaroid;Si vous avez 0 butin en main à la fin de votre tour, piochez 2 butins.;$
-The relic;La relique;Quand un joueur fait un 1, piochez 1 butin.;$
-There's options;Il y a du choix;"Vous pouvez regarder la première carte du paquet de trésors à tout moment durant votre tour. 
+The Habit;L'habit;Quand vous subissez des dégâts pour la première fois à chaque tour, vous pouvez recharger un trésor.;$
+The Map;La carte;A la fin de votre tour, regardez les 4 premières cartes du paquet de monstres. Replacez-les dans l'ordre de votre choix.;$
+The Midas Touch;Le toucher de Midas;Quand un monstre est tué, gagnez 3c.;$
+The Missing Page;La page manquante;Quand un joueur fait un 5, vous pouvez forcer ce joueur à relancer le dé.;$
+The Polaroid;Le polaroid;Si vous avez 0 butin en main à la fin de votre tour, piochez 2 butins.;$
+The Relic;La relique;Quand un joueur fait un 1, piochez 1 butin.;$
+There's Options;Il y a du choix;"Vous pouvez regarder la première carte du paquet de trésors à tout moment durant votre tour. 
 Vous pouvez acheter un trésor de plus durant votre tour.";$
-Trinity shield;Bouclier de la Trinité;Les autres joueurs ne peuvent pas jouer de butin ou activer d'effets durant votre tour.;$
+Trinity Shield;Bouclier de la Trinité;Les autres joueurs ne peuvent pas jouer de butin ou activer d'effets durant votre tour.;$

@@ -1,10 +1,10 @@
-Battery bum;Mendiant à piles;Payez 4c : rechargez un trésor.;$
-Contract from below;Contrat des profondeurs;Détruisez 2 de vos trésors : volez 1 trésor à un joueur.;$
-Dad's key;Clef de papa;Défaussez 1 butin : placez la première carte du paquet de monstres sur un monstre actif. Vous ne pouvez pas activer cet effet durant une attaque.;$
-Donation machine;Machine à dons.;Donnez 1 de vos autres trésors à un autre joueur : gagnez 8c.;$
-Golden razor blade;Lame de rasoir en or;Payez 5c : infligez 1 dégât à un joueur ou un monstre.;$
-Pay to play;Payez pour gagner;Payez 10c : volez 1 trésor à un joueur.;$
-Portable slot machine;Machine à sous portable;"Payez 3c : lancez un dé :
+Battery Bum;Mendiant à piles;Payez 4c : rechargez un trésor.;$
+Contract From Below;Contrat des profondeurs;Détruisez 2 de vos trésors : volez 1 trésor à un joueur.;$
+Dad's Key;Clef de papa;Défaussez 1 butin : placez la première carte du paquet de monstres sur un monstre actif. Vous ne pouvez pas activer cet effet durant une attaque.;$
+Donation Machine;Machine à dons.;Donnez 1 de vos autres trésors à un autre joueur : gagnez 8c.;$
+Golden Razor Blade;Lame de rasoir en or;Payez 5c : infligez 1 dégât à un joueur ou un monstre.;$
+Pay To Play;Payez pour gagner;Payez 10c : volez 1 trésor à un joueur.;$
+Portable Slot Machine;Machine à sous portable;"Payez 3c : lancez un dé :
 1-2: piochez 1 butin. 
 3-4: gagnez 4c. 
 5-6: rien.";$
@@ -12,5 +12,5 @@ Smelter;Fonderie;Défaussez 1 butin : gagnez 3c.;$
 Succubus;Succube;Payez 3c : vous pouvez jouer jusqu'à 2 butins de plus jusqu'à la fin de votre tour.;$
 Tech X;Technologie X;"(Activable) Placez 1 compteur sur ce trésor.
 (Payant) Retirez 3 compteurs : tuez un monstre ou un joueur.";$
-The poop;Le caca;"(Passif) Quand vous subissez des dégâts, placez 1 compteur sur ce trésor.
+The Poop;Le caca;"(Passif) Quand vous subissez des dégâts, placez 1 compteur sur ce trésor.
 (Payant) Retirer 1 compteur : prévenez 1 dégât que vous devez subir.";$

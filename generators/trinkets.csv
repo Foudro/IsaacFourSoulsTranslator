@@ -1,15 +1,15 @@
-Bloody penny;Pièce ensanglantée;Quand un joueur meurt, piochez 1 butin.;$
-Broken ankh;Ânkh brisé;"Quand vous devez mourir, lancez un dé :
+Bloody Penny;Pièce ensanglantée;Quand un joueur meurt, piochez 1 butin.;$
+Broken Ankh;Ânkh brisé;"Quand vous devez mourir, lancez un dé :
 1-5: vous mourrez. 
 6: vous ne mourrez pas, si c'était votre tour terminez-le immédiatement.";$
-Cain's eye;Œil de Cain;Au début de votre tour, regardez la première carte du paquet des butins, vous pouvez la placer en-dessous du paquet.;$
+Cain's Eye;Œil de Cain;Au début de votre tour, regardez la première carte du paquet des butins, vous pouvez la placer en-dessous du paquet.;$
 Cancer;Cancer;Ajoutez +1 à votre premier lancer de dé de chaque tour.;$
-Counterfeit penny;Pièce contrefaite;Quand vous gagnez des pièces, gagnez-en 1 de plus.;$
-Curved horn;Corne courbée;Gagnez +1 attaque sur votre première attaque de chaque tour.;$
-Golden horseshoe;Fer à cheval doré;Au début de votre tour, regardez la première carte du paquet des trésors, vous pouvez la placer en-dessous du paquet.;$
-Guppy's hairball;Boule de poils de Guppy;"Quand vous subissez des dégâts, lancez un dé : 
+Counterfeit Penny;Pièce contrefaite;Quand vous gagnez des pièces, gagnez-en 1 de plus.;$
+Curved Horn;Corne courbée;Gagnez +1 attaque sur votre première attaque de chaque tour.;$
+Golden Horseshoe;Fer à cheval doré;Au début de votre tour, regardez la première carte du paquet des trésors, vous pouvez la placer en-dessous du paquet.;$
+Guppy's Hairball;Boule de poils de Guppy;"Quand vous subissez des dégâts, lancez un dé : 
 1-5: rien. 
 6: prévenez 1 dégât.";$
-Pink eye;Conjonctivite;Quand vous subissez des dégâts par un monstre en faisant un 1 lors d'une attaque, infligez-lui aussi 1 dégât.;$
-Purple heart;Cœur pourpre;Au début de votre tour, regardez la première carte du paquet des monstres, vous pouvez la placer en-dessous du paquet.;$
-Swallowed penny;Pièce avalée;Quand vous subissez des dégâts, gagnez 1c.;$
+Pink Eye;Conjonctivite;Quand vous subissez des dégâts par un monstre en faisant un 1 lors d'une attaque, infligez-lui aussi 1 dégât.;$
+Purple Heart;Cœur pourpre;Au début de votre tour, regardez la première carte du paquet des monstres, vous pouvez la placer en-dessous du paquet.;$
+Swallowed Penny;Pièce avalée;Quand vous subissez des dégâts, gagnez 1c.;$

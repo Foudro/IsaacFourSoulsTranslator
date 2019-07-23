@@ -1,11 +1,11 @@
-2 cents!;2 centimes !;Gagnez 2c.;$
-3 cents!;3 centimes !;Gagnez 3c.;$
-4 cents!;4 centimes !;Gagnez 4c.;$
-A dime!!;Une pièce de 10 centimes !!;Gagnez 10c.;$
-A nickel!;Une pièce de 5 centimes !;Gagnez 5c.;$
-A penny!;Une pièce !;Gagnez 1c.;$
-A sack;Un sac;Piochez 3 butins.;$
-Blank rune;Rune vierge;"Lancez un dé puis appliquer l'effet à tous les joueurs : 
+2 Cents!;2 centimes !;Gagnez 2c.;$
+3 Cents!;3 centimes !;Gagnez 3c.;$
+4 Cents!;4 centimes !;Gagnez 4c.;$
+A Dime!!;Une pièce de 10 centimes !!;Gagnez 10c.;$
+A Nickel!;Une pièce de 5 centimes !;Gagnez 5c.;$
+A Penny!;Une pièce !;Gagnez 1c.;$
+A Sack;Un sac;Piochez 3 butins.;$
+Blank Rune;Rune vierge;"Lancez un dé puis appliquer l'effet à tous les joueurs : 
 1: gagnez 1c. 
 2: piochez 2 butins. 
 3: subissez 3 dégâts. 
@@ -13,36 +13,36 @@ Blank rune;Rune vierge;"Lancez un dé puis appliquer l'effet à tous les joueurs
 5: piochez 5 butins. 
 6: gagnez 6c.";$
 Bomb!;Bombe !;Infligez 1 dégât à un joueur ou un monstre.;$
-Butter bean!;Haricot beurre !;Annulez l'effet de n'importe quel trésor ou butin joué.;$
-Charged penny;Pièce chargée;Gagnez 1c puis rechargez un trésor.;$
-Credit card;Carte de crédit;Le premier objet que vous achetez au magasin pendant ce tour coûte 0c.;$
+Butter Bean!;Haricot beurre !;Annulez l'effet de n'importe quel trésor ou butin joué.;$
+Charged Penny;Pièce chargée;Gagnez 1c puis rechargez un trésor.;$
+Credit Card;Carte de crédit;Le premier objet que vous achetez au magasin pendant ce tour coûte 0c.;$
 Dagaz;Dagaz;"Choisissez un effet : 
 - Détruisez une malédiction. 
 - Prévenez 1 dégât infligé à un joueur.";$
-Dice shard;Fragment de dé;Forcez un joueur à relancer un dé.;$
+Dice Shard;Fragment de dé;Forcez un joueur à relancer un dé.;$
 Ehwaz;Ehwaz;Défaussez tous les monstres actifs non-attaqués et remplacez-les par des cartes du paquet de monstres.;$
-Gold bomb!!;Bombe dorée !!;Infligez 3 dégâts à un joueur ou un monstre.;$
-Holy card;Carte sacrée;Quand un joueur doit mourir, prévenez la mort et terminez son tour.;$
+Gold Bomb!!;Bombe dorée !!;Infligez 3 dégâts à un joueur ou un monstre.;$
+Holy Card;Carte sacrée;Quand un joueur doit mourir, prévenez la mort et terminez son tour.;$
 Jera;Jera;Piochez X butins. X est le nombre de butins que vous avez en main.;$
 Joker;Joker;Regardez la main d'un joueur. Vous pouvez lui voler une carte.;$
-Lil battery;Petite pile;Rechargez un trésor.;$
-Lost soul;Âme perdue;Gagnez cette âme.;$
-Mega battery;Mega pile;Choisissez un joueur : rechargez tous ses trésors.;$
-Pills! (bleue);Des pilules ! (bleue);"Lancez un dé : 
+Lil Battery;Petite pile;Rechargez un trésor.;$
+Lost Soul;Âme perdue;Gagnez cette âme.;$
+Mega Battery;Mega pile;Choisissez un joueur : rechargez tous ses trésors.;$
+Pills! Blue;Des pilules ! (bleue);"Lancez un dé : 
 1-2: piochez 1 butin. 
 3-4: piochez 3 butins. 
 5-6: défaussez 1 butin.";$
-Pills! (jaune);Des pilules ! (jaune);"Lancez un dé : 
+Pills! Yellow;Des pilules ! (jaune);"Lancez un dé : 
 1-2: gagnez 4c. 
 3-4: gagnez 7c. 
 5-6: perdez 4c.";$
-Pills! (rouge);Des pilules ! (rouge);"Lancez un dé : 
+Pills! Red;Des pilules ! (rouge);"Lancez un dé : 
 1-2: gagnez +1 attaque jusqu'à la fin du tour. 
 3-4: gagnez +1 santé jusqu'à la fin du tour. 
 5-6: subissez 1 dégât.";$
-Pills! (violette);Des pilules ! (violette);"Lancez un dé :
+Pills! Purple;Des pilules ! (violette);"Lancez un dé :
 1-2: rechargez tous vos trésors. 
 3-4: gagnez +1 à tous vos lancers de dé jusqu'à la fin du tour. 
 5-6: perdez -2 à tous vos lancers de dés jusqu'à la fin du tour.";$
-Soul heart;Cœur d'âme;Prévenez 1 dégât infligé à un joueur.;$
-Two of diamonds;Deux de carreaux;Doublez le nombre de pièces qu'un joueur possède.;$
+Soul Heart;Cœur d'âme;Prévenez 1 dégât infligé à un joueur.;$
+Two Of Diamonds;Deux de carreaux;Doublez le nombre de pièces qu'un joueur possède.;$

@@ -13,24 +13,29 @@ const {promises: fs} = require('fs');
                     const elements = line.split(';');
                     const words = elements[0].replace(/\r\n/g, '').split(' ').sort((a, b) => b.length - a.length)
                     let potentialImg = dir.filter(img => {
-                        return img.toLowerCase().includes(words[0].toLowerCase().replace('\'', '').replace('.', ''))
+                        return img.replace('.png', '') === elements[0].replace(/\r\n/g, '').replace('\'', '').replace('.', '').replace(' ', '')
                     });
+                    if(potentialImg.length !== 1 && words[0]){
+                        potentialImg = dir.filter(img => {
+                            return img.includes(words[0].replace('\'', '').replace('.', ''))
+                        });
+                    }
                     if(potentialImg.length > 1 && words[1]){
                         potentialImg = potentialImg.filter(img => {
-                            return img.toLowerCase().includes(words[1].toLowerCase().replace('\'', '').replace('.', ''))
+                            return img.includes(words[1].replace('\'', '').replace('.', ''))
                         });
                     } else if(potentialImg.length <= 0 && words[1]){
                         potentialImg = dir.filter(img => {
-                            return img.toLowerCase().includes(words[1].toLowerCase().replace('\'', '').replace('.', ''))
+                            return img.includes(words[1].replace('\'', '').replace('.', ''))
                         });
                     }
                     if(potentialImg.length > 1 && words[2]){
                         potentialImg = potentialImg.filter(img => {
-                            return img.toLowerCase().includes(words[2].toLowerCase().replace('\'', '').replace('.', ''))
+                            return img.includes(words[2].replace('\'', '').replace('.', ''))
                         });
                     } else if(potentialImg.length <= 0 && words[2]){
                         potentialImg = dir.filter(img => {
-                            return img.toLowerCase().includes(words[2].toLowerCase().replace('\'', '').replace('.', ''))
+                            return img.includes(words[2].replace('\'', '').replace('.', ''))
                         });
                     }
                     return {
