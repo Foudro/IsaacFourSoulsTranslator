@@ -42,6 +42,7 @@ const {promises: fs} = require('fs');
                         originalName: elements[0].replace(/\r\n/g, ''),
                         translatedName: elements[1].replace(/\r\n/g, ''),
                         translatedText: elements[2].replace(/\r\n/g, '').replace(/"/g, ''),
+                        translatedTextMonster: elements[3].replace(/\r\n/g, '').replace(/"/g, ''),
                         img: potentialImg[0]
                     };
                 });

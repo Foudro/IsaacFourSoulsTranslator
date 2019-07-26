@@ -1,17 +1,18 @@
 import React, { Component } from 'react';
 import './Card.css';
 
-import { Card } from 'react-bootstrap';
+import { Card } from 'antd';
+const { Meta } = Card;
 
 class IsaacCard extends Component {
   render() {
     return (
-        <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src={process.env.PUBLIC_URL + '/cards/' + this.props.card.img} />
-            <Card.Body>
-                <Card.Title>{this.props.card.originalName}</Card.Title>
-                <Card.Text>{this.props.card.translatedText}</Card.Text>
-            </Card.Body>
+        <Card 
+          hoverable
+          className="IsaacCard"
+          cover={<img alt="example" src={process.env.PUBLIC_URL + '/cards/' + this.props.card.img} />}
+        >
+            <Meta title={this.props.card.originalName} description={<div><div>{this.props.card.translatedTextMonster ? <span style={{fontWeight: 'bold'}}>{this.props.card.translatedText}</span> : this.props.card.translatedText}</div><div>{this.props.card.translatedTextMonster}</div></div>} />
         </Card>
     );
   }
