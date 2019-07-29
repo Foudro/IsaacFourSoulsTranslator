@@ -24,3 +24,7 @@ Lord Of The Pit;Seigneur du gouffre;Annulez une attaque sur un monstre. Le joueu
 Void;Néant;"Choisissez un effet : 
 Défaussez votre main puis piochez autant de butins. 
 Défaussez un monstre actif non-attaqué ou un trésor du magasin.";$
+Bag-O-Trash; Sac de détritus; Payez 4c et choisissez 1:
+Piochez 1,
+Faites 1 domage à un monstre ou à un joueur,
+Jouez un carte butin en plus ce tour;$

@@ -94,3 +94,8 @@ The Relic;La relique;Quand un joueur fait un 1, piochez 1 butin.;$
 There's Options;Il y a du choix;"Vous pouvez regarder la première carte du paquet de trésors à tout moment durant votre tour. 
 Vous pouvez acheter un trésor de plus durant votre tour.";$
 Trinity Shield;Bouclier de la Trinité;Les autres joueurs ne peuvent pas jouer de butin ou activer d'effets durant votre tour.;$
+AAA Battery; Pile AAA; A la fin de votre tour, lancez le dé:
+1-3: Rien 
+4-6: Rechargez un objet;$
+Abaddon;Abaddon; +5 d'attaque.
+Si vous prenez un dégat par un monstre, vous mourrez;$

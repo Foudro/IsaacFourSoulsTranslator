@@ -46,3 +46,8 @@ Pills! Purple;Des pilules ! (violette);"Lancez un dé :
 5-6: perdez -2 à tous vos lancers de dés jusqu'à la fin du tour.";$
 Soul Heart;Cœur d'âme;Prévenez 1 dégât infligé à un joueur.;$
 Two Of Diamonds;Deux de carreaux;Doublez le nombre de pièces qu'un joueur possède.;$
+Ansuz;Ansuz;Regardez les 4 premières cartes de n'importe quel deck, et remettez les dans n'importe quel ordre;$
+Black Rune; Rune noire; Lancez le dé:
+1-2: Donnez 1 dommage à tous les monstres actifs,
+3-4: Détruisez cet objet et remplacez le avec la première carte en haut du deck de trésor,
+5-6: Défaussez votre main et piochez 3 butins;$

@@ -3,20 +3,20 @@ const {promises: fs} = require('fs');
 (async () => {
     const dirPath = 'generators';
     const dir = await fs.readdir(dirPath);
+    let dir2 = await fs.readdir('public/cards');
     const cards = await Promise.all(
         dir.filter(card => !card.match(/.js$/)).map(async card => {
             const file = await fs.readFile(dirPath + '/' + card);
-            const dir = await fs.readdir('public/cards');
             const famillyCard = file.toString().split('$')
                 .filter(line => line.split(';').length >= 3 )
                 .map(line => {
                     const elements = line.split(';');
                     const words = elements[0].replace(/\r\n/g, '').split(' ').sort((a, b) => b.length - a.length)
-                    let potentialImg = dir.filter(img => {
+                    let potentialImg = dir2.filter(img => {
                         return img.replace('.png', '') === elements[0].replace(/\r\n/g, '').replace('\'', '').replace('.', '').replace(' ', '')
                     });
                     if(potentialImg.length !== 1 && words[0]){
-                        potentialImg = dir.filter(img => {
+                        potentialImg = dir2.filter(img => {
                             return img.includes(words[0].replace('\'', '').replace('.', ''))
                         });
                     }
@@ -25,7 +25,7 @@ const {promises: fs} = require('fs');
                             return img.includes(words[1].replace('\'', '').replace('.', ''))
                         });
                     } else if(potentialImg.length <= 0 && words[1]){
-                        potentialImg = dir.filter(img => {
+                        potentialImg = dir2.filter(img => {
                             return img.includes(words[1].replace('\'', '').replace('.', ''))
                         });
                     }
@@ -34,10 +34,11 @@ const {promises: fs} = require('fs');
                             return img.includes(words[2].replace('\'', '').replace('.', ''))
                         });
                     } else if(potentialImg.length <= 0 && words[2]){
-                        potentialImg = dir.filter(img => {
+                        potentialImg = dir2.filter(img => {
                             return img.includes(words[2].replace('\'', '').replace('.', ''))
                         });
                     }
+                    dir2 = dir2.filter(img => img !== potentialImg[0]);
                     return {
                         originalName: elements[0].replace(/\r\n/g, ''),
                         translatedName: elements[1].replace(/\r\n/g, ''),
@@ -52,6 +53,14 @@ const {promises: fs} = require('fs');
             };
         })
     );
-    //console.log(JSON.stringify(cards));
+    cards.push({
+        category: 'Non traduit',
+        cards: dir2.map(card => {
+            return {
+                img: card
+            }
+        })
+    });
+    console.log(JSON.stringify(dir2));
     await fs.writeFile('src/cards-data.json', JSON.stringify(cards));
 })()
