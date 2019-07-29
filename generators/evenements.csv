@@ -1,3 +1,4 @@
+
 Ambush!;;Vous devez attaquer le paquet de monstres 2 fois ce tour.;$
 Chest Money;;"Lancez un dé :
 1-2: gagnez 1c.
@@ -78,3 +79,20 @@ Angel Room; Salle d'ange; Lancez le dé:
 1: Gagnez 2 trésors
 2-3: Gagnez 1 trésor
 4-6: Piochez 2;$
+Boss Rush!;Ruée De Boss!;Révélez les cartes en haut du deck de monstre jusqu'à avoir 2 monstre, et posez les dans les piles actives. Vous devez attaquer une de ces cartes ce tour.;$
+Curse Of Blood Lust; Malédiction Du Sang De Luxure; Quand elle est révélée, donnez cette malédiction à n'importe quel joueur.
+Vous devez attaquer ce tour si c'est possible.
+Quand vous mourrez, défaussez cette carte.;$
+Curse Of Impulse;Malédiction de l'impultion;Quand elle est révélée, donnez cette malédiction à n'importe quel joueur.
+A la fin de votre tour, désactivez tous vos objets actifs et carte personnage.
+Quand vous mourrez, défaussez cette carte.;$
+Head Trauma;Traumatisme Crânien;Défaussez deux butins.;$
+Holy Chest;Coffre Sacré;Lancez le dé:
+1-2: Les deux prochains dégâts reçus ce tour sont évités. Vous pouvez attaquer une fois de plus ce tour,
+4-5: Gagnez 7c,
+6: Cette carte deviens une âme, gardez la.;$
+Holy Mulligan;La Deuxième Chance Sacrée;3c;Quand ce monstre meurt, ajoutez le nombre de monstre actifs de 2. Vous pouvez attaquer une fois de plus ce tour.;$
+Spiked Chest;Coffre Piquant;Lancez un dé:
+1-2: Prenez un dégât,
+3-4: Prenez un dégât et un butin,
+5-6: Prenez un dégât et un trésor.;$

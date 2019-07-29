@@ -1,3 +1,4 @@
+
 The D6;Le dé à 6 faces;Forcez un joueur à relancer un dé.;$
 Sleight Of Hand;Tour de passe-passe;Regardez les 3 premières cartes d'un paquet puis replacez-les dans l'ordre de votre choix.;$
 Yum Heart;Cœur délicieux;Prévenez 1 dégât infligé à un joueur ou un monstre.;$
@@ -28,3 +29,7 @@ Bag-O-Trash; Sac de détritus; Payez 4c et choisissez 1:
 Piochez 1,
 Faites 1 domage à un monstre ou à un joueur,
 Jouez un carte butin en plus ce tour;$
+Dark Arts;Arts Sombres;Quand n'importe qui fait un 6, gagnez 3c.
+A chaque fois qu'un joueur meurt, piochez 2 butins.;$
+Gimpy;Gimpy;A cahque fois que vous recevez un dommage, choisissez 1: Gagner 1 d'attaque ou Gagner 1c ou piochez un butin puis défaussez un butin.;$
+Infestation;Infestation;Piochez 2 butins, défaussez 1 butin.;$

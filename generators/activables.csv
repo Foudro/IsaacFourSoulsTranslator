@@ -1,3 +1,4 @@
+
 Crooked Penny;Pièce tordue;"Choisissez un joueur puis lancez un dé :
 1-3: Doublez le nombre de pièces de ce joueur.
 4-6: Ce joueur perd toutes ses pièces.";$
@@ -94,3 +95,17 @@ Ce joueur détruit tous ses trésors puis en gagne autant.";$
 The Shovel;La pelle;Placez n'importe quel monstre défaussé au-dessus du paquet de monstres.;$
 Two Of Clubs;Deux de trèfles;Doublez le nombre de cartes qu'un joueur devrait piocher jusqu'à la fin du tour.;$
 Black Candle; Bougie noire; Révélez les 6 cartes au dessus du deck de monstre. Donnez n'importe quelle malédiction à n'importe quel(s) joueur(s) de votre choix. Replacez le reste en bas du deck dans n'importe quel ordre;$
+Distant Admiration;Admiration A Distance;Forcez un autre joueur à vous deonner la crate butin de leur choix. Vous devez jouer cette carte.;$
+Forget Me Now;Oublie moi;Détruisez cette carte. Chaque joueur défausse une carte âme de leur choix;$
+Head Of Krampus;Tête de Krampus;Lancez le dé:
+1-3: Faites 1 dommage à tous les joueurs,
+4-6: Faites 1 dommage aux monstres actifs.;$
+Mutant Spider;Araignée Mutante;La prochaine fois qu'un joueur lancera un dé, il en lancera 4. Choisissez en 1 comme étant le résultat.;$
+Rainbow Baby;Bébé Arc-En-Ciel;Choisissez 1:
+Tous les joueurs gagnent 1 butin.
+Tous les joueurs gagnent 2c.
+Tous les joueurs prennent 1 dégât.;$
+Red Candle;Bougie Rouge;Avant qu'un dé soit lancé, dites un nombre. Jusqu'à la fin du tour, à chaque fois que ce nombre tombe, faites un dégât à un monstre ou joueur.;$
+Smart Fly;Mouche Maline;Regardez la première carte en haut de n'importe quel deck. Vous pouvez la defausser ou la replacer en haut du paquet.
+A chaque fois que vou prennez un dégat, rechargez cette carte.;$
+20 of 20;20 sur 20;Ajoutez jusqu'à 2 à n'importe quel dé d'attaque.;$

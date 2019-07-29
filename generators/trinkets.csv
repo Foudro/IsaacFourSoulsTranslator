@@ -1,3 +1,4 @@
+
 Bloody Penny;Pièce ensanglantée;Quand un joueur meurt, piochez 1 butin.;$
 Broken Ankh;Ânkh brisé;"Quand vous devez mourir, lancez un dé :
 1-5: vous mourrez. 
@@ -13,3 +14,7 @@ Guppy's Hairball;Boule de poils de Guppy;"Quand vous subissez des dégâts, lanc
 Pink Eye;Conjonctivite;Quand vous subissez des dégâts par un monstre en faisant un 1 lors d'une attaque, infligez-lui aussi 1 dégât.;$
 Purple Heart;Cœur pourpre;Au début de votre tour, regardez la première carte du paquet des monstres, vous pouvez la placer en-dessous du paquet.;$
 Swallowed Penny;Pièce avalée;Quand vous subissez des dégâts, gagnez 1c.;$
+The Left Hand;La Main Gauche;A chaque fois qu'un joueur meurt, vous pouvez recharger un objet.;$
+Poker Chip;Jeton De Poker;La première fois que vous gagner des c lors de votre tour, lancez un dé:
+1-3: Gagnez seulement 1 c,
+4-6: Gagnez le double de c gagné.;$

@@ -9,6 +9,7 @@ const {promises: fs} = require('fs');
             const file = await fs.readFile(dirPath + '/' + card);
             const famillyCard = file.toString().split('$')
                 .filter(line => line.split(';').length >= 3 )
+                .sort()
                 .map(line => {
                     const elements = line.split(';');
                     const words = elements[0].replace(/\r\n/g, '').split(' ').sort((a, b) => b.length - a.length)
@@ -38,13 +39,23 @@ const {promises: fs} = require('fs');
                             return img.includes(words[2].replace('\'', '').replace('.', ''))
                         });
                     }
+                    const imgs = [potentialImg[0]];
                     dir2 = dir2.filter(img => img !== potentialImg[0]);
+                    let curimg = potentialImg[0]; let count = 2;
+                    if(!curimg){
+                        console.log(elements);
+                    }
+                    while (dir2.includes(curimg.replace('.png','') + count + '.png')) {
+                        imgs.push(curimg.replace('.png','') + count + '.png');
+                        dir2 = dir2.filter(img => img !== (curimg.replace('.png','') + count + '.png'));
+                        count += 1;
+                    }
                     return {
                         originalName: elements[0].replace(/\r\n/g, ''),
                         translatedName: elements[1].replace(/\r\n/g, ''),
                         translatedText: elements[2].replace(/\r\n/g, '').replace(/"/g, ''),
                         translatedTextMonster: elements[3].replace(/\r\n/g, '').replace(/"/g, ''),
-                        img: potentialImg[0]
+                        img: imgs
                     };
                 });
             return {
@@ -53,14 +64,16 @@ const {promises: fs} = require('fs');
             };
         })
     );
-    cards.push({
-        category: 'Non traduit',
-        cards: dir2.map(card => {
-            return {
-                img: card
-            }
-        })
-    });
-    console.log(JSON.stringify(dir2));
+    if(dir2.length){
+        cards.push({
+            category: 'Non traduit',
+            cards: dir2.sort().map(card => {
+                return {
+                    img: card
+                }
+            })
+        });
+    }
+    //console.log(JSON.stringify(dir2));
     await fs.writeFile('src/cards-data.json', JSON.stringify(cards));
 })()

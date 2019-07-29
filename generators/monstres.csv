@@ -1,3 +1,4 @@
+
 Begotten;;Piochez 2 butins.;Quand ce monstre est à 1 santé, il gagne +1 attaque jusqu'à la fin du tour.;$
 Big Spider;;Piochez 1 butin.;Quand ce monstre meurt, vous pouvez faire une attaque supplémentaire sur le paquet de monstres.;$
 Black Bony;;"Lancez un dé :
@@ -158,4 +159,32 @@ Gagnez 1 âme.";"Quand ce monstre meurt, lancez un dé :
 1-3: tous les joueurs subissent 1 dégât.
 4-6: tous les joueurs subissent 2 dégâts.";$
 Blastocyst;Blastocyste;Piochez 1 butin.
-Gagnez 1 âme;Quand ce monstre meurt, ajoutez 2 monstre actifs. Vous pouvez attaquer le deck de monstre une fois de plus;
+Gagnez 1 âme;Quand ce monstre meurt, ajoutez 2 monstre actifs. Vous pouvez attaquer le deck de monstre une fois de plus;$
+Bony;Osseux;Piochez un butin; A chaque fois que le joueur attaquant fait un 1, il prend 2 domage;$
+Brain;Cerveau;Piochez 1 Butin;A chaque fois que le joueur attaquant fait 6, il prend 1 dommage.;$
+Cursed Globin;Globin Maudit; Lancez le dé, piochez le résultat en butin; Quand n'importe quel joueur fais un 3, tous les monstres actifs gagnent 2pv.;$
+Cursed Tumor; Yumeur Maudite; Lancez le dé, piochez le résultat en c; Quand n'importe quel joueur fait un 4, tous les joueurs prennent 1 dommage.;$
+Dingle;Dingle;6c. Une âme.;A chaque fois que ce personnage reçoit des dommages, lancez le dé:
+1-2: Prenez 1 dommage,
+3-4: Tous les joueurs prennent 1 dommage,
+5-6: le monstre prnd 1 dommage;$
+Flaming Hopper;Sauteur Enflammé;4c;Ce monstre est insensible fait par des dés 6;$
+Globin;Globin;3 butins;Quand ce monstre est à 1pv lancez le dé:
+1-4: le monstre prend 1 dommage,
+5-6: le monstra gagne 2pv;$
+Headless Horseman;Cavalier Sans Tête;1 Trésor. 1 Ame.;Une fois par tour, la première fois que ce monstre meurt, il ne meurt pas et gagne, 2pv, +1 au dé, -1 attaque.;$
+Holy Bony;Bony sacré;2 butins;A chaque fois qu'un joueur fait un 6, ils peuvent regarder les trois premières cartes de n'importe quel deck et de les poser dans l'ordre que vous voulez.;$
+Isaac!;Isaac!;1 Trésor. 2 âmes.; A chaque dégât reçu par ce monstre, Faites un dégât au joueur de votre choix.;$
+Krampus;Krampus;1 Trésor. 1 Ame.;Quand ce monstre est actif, chaque joueur doivent l'attaquer durant leur tour si c'est possible.;$
+Mom's Heart!;Le Coeur De Maman!;2 âmes.;Quand ce monstre meurt c'est la fin de la partie, choisissez le ou les joueur(s) avec le plus d'âmes. Ces joueurs gagnent.;$
+Monstro II;Monstro II;1 trésor. 1 âme;A chaque fois que ce monstre cause des dégâts, lancez le dé:
+1-3: Faites 1 dégat au joueur à votre droite,
+4-6: Faites 1 dégat au joueur à votre gauche.;$
+Nerve Ending;Terminaison Nerveuse;3c;;$
+Polycephalus;Polycéphalie;3 butins. 1 âme.;A chaque fois que ce monstre reçoit un dégât, votre lancé de dé d'attaque suivant est à -2.;$
+Roundy;Rondeur;6c;A chaque fois que ce monstre cause des dégâts, il cause également 1 dégât à tous les monstres actifs.;$
+Sucker;Suceur;1 butin;Quand ce monstre meurt, faites un dégât à tous les joueurs.;$
+Swarmer;Essaimeur;1 trésor.;Quand ce monstre meurt, augmentez le nombre de monstres actifs par 2.;$
+The Fallen;L'ange déchu;1 trésor.1 âme;Quand ce monstre meurt, regardez les 5 cartes au dessus du deck de monstres, vous pouvez les reposer dans l'ordre que vous voulez.;$
+Tumor;Tumeur;6c;Quand ce monstre prend un dégât, il donne un dégât à un joueur.;$
+Widow;Veuve;2 butins.1 âme;;$

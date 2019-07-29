@@ -1,3 +1,4 @@
+
 2 Cents!;2 centimes !;Gagnez 2c.;$
 3 Cents!;3 centimes !;Gagnez 3c.;$
 4 Cents!;4 centimes !;Gagnez 4c.;$
@@ -51,3 +52,20 @@ Black Rune; Rune noire; Lancez le dé:
 1-2: Donnez 1 dommage à tous les monstres actifs,
 3-4: Détruisez cet objet et remplacez le avec la première carte en haut du deck de trésor,
 5-6: Défaussez votre main et piochez 3 butins;$
+Get Out Of Jail Card;Carte Sortir De Prison;Les autres joueurs ne peuvent pas jouer de butin ou d'activer de carte jusqu'à la fin de ce tour.;$
+Gold Key;Clé dorée;Vous pouvez attaquer le deck de monstre autant de fois que vous voulez ce tour.;$
+Perthro;Perthro;Détruisez un objet et remplacez le avec un objet du haut du deck de trésors.;$
+Pills! Black;Des pilules! (noir);Lancez un dé:
+1-2: Faites un dégât à un joueur,
+3-4: Faites un dégât à un monstre actif,
+5-6: Prenez un dégât.;$
+Pills! Spots;Des pilules! (à pois);Lancez un dé:
+1-2: Reroll un de vos objets,
+3-4: Reroll n'importe quel objet,
+5-6: Reroll tous vos objets.
+Reroll = Détruisez un objet et remplacez le avec la première carte en haut du deck de trésors.;$
+Pills! White;Des pilules! (Blanc);Lancez un dé:
+1-2: Annulez l'effet de n'importe quel butin joué,
+3-4: Tous les autres joueurs défaussent un butin,
+5-6: Rien.;$
+Question Card;Carte Question;Copiez l'effet de n'importe quel objet actif en jeu.;$
