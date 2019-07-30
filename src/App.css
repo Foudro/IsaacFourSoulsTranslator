@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-family: 'Patrick Hand', cursive;
+  background: #303338;
 }
 
 .App-logo {
@@ -30,4 +32,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  color: white;
 }

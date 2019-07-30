@@ -1,4 +1,20 @@
 .IsaacCard {
     height: 100%;
     width: 240px;
+    background-color: rgba(255, 255, 255, 0.35);
+    border-color: black;
+}
+
+div .separator:not(:first-child) {
+    border-top: rgba(0, 0, 0, 0.45) solid 1px;
+    margin-top: 5px;
+    padding-top: 5px; 
+}
+
+.ant-card-meta-title {
+    color: white;
+}
+
+.ant-card-meta-description {
+    color: rgba(0, 0, 0, 0.95);
 }
