@@ -5,13 +5,14 @@ import "antd/dist/antd.css";
 import './App.css';
 
 import IsaacCardCategory from './CardCategory/CardCategory';
+import Search from './Search/Search';
 import { Row, Col } from 'antd';
 
 class App extends Component {
   render() {
-    console.log(cards);
     return (
       <div className="App">
+        <Search cards={[[]].concat(cards).reduce((a,c) => a.concat(c.cards.map(card => card.originalName)))}></Search>
         {
           cards.map(category => {
             return <div>

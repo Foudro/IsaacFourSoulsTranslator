@@ -12,7 +12,7 @@ class IsaacCard extends Component {
           className="IsaacCard"
           cover={<img alt="example" src={process.env.PUBLIC_URL + '/cards/' + this.props.card.img[0]} style={{width: '100%'}}/>}
         >
-            <Meta title={this.props.card.originalName} description={<div><div>{this.props.card.translatedTextMonster ? <span style={{fontWeight: 'bold'}}>{this.props.card.translatedText}</span> : this.props.card.translatedText.split('<br/>').map(t => <div class="separator">{t}</div>)}</div><div>{this.props.card.translatedTextMonster}</div></div>} />
+            <Meta title={this.props.card.originalName} description={<div><div>{this.props.card.translatedTextMonster ? <span style={{fontWeight: 'bold'}}>{this.props.card.translatedText}</span> : this.props.card.translatedText.split('<br/>').map(t => <div className="separator">{t}</div>)}</div><div>{this.props.card.translatedTextMonster}</div></div>} />
         </Card>
     );
   }
