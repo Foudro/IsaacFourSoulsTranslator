@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 
 import searchStore from '../stores/search';
 
-import { AutoComplete } from 'antd';
-const { Option } = AutoComplete;
+import { Input } from 'antd';
+const { Search } = Input;
 
-class Search extends Component {
+class SearchCard extends Component {
     constructor(props) {
         super(props);
-        this.handleSearch = this.handleSearch.bind(this);
+        this.setSearch = this.setSearch.bind(this);
         this.state = { search: '' };
     }
 
@@ -16,25 +16,25 @@ class Search extends Component {
         return this.state.search;
     }
 
-    setSearch(search) {
+    setSearch(event) {
+        const search = event.target.value;
         searchStore.dispatch({
             type: 'UPDATE_SEARCH',
             text: search.toLowerCase()
         })
-        this.setState({ search: search.toLowerCase() });
+        this.setState({search});
     }
 
     render() {
-        const search = this.getSearch();
         return (
-            <AutoComplete dataSource={this.props.cards.filter(c => search && search !== '' && c.toLowerCase().match(search)).map(c => <Option key={c}>{c}</Option>)} style={{ width: 200 }} onSearch={this.handleSearch} placeholder="Search">
-            </AutoComplete>
+            <Search
+                placeholder="Search Card"
+                onChange={this.setSearch}
+                style={{ width: 200 }}
+            />
         );
     }
 
-    handleSearch(s) {
-        this.setSearch(s);
-    }
 }
 
-export default Search;
+export default SearchCard;

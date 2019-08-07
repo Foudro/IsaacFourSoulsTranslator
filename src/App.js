@@ -5,7 +5,7 @@ import "antd/dist/antd.css";
 import './App.css';
 
 import IsaacCardCategory from './CardCategory/CardCategory';
-import Search from './Search/Search';
+import SearchCard from './Search/Search';
 
 import searchStore from './stores/search';
 
@@ -33,14 +33,15 @@ class App extends Component {
     } else {
       cardsDisplay = cards.map(category => {
         return <div>
-          <Row><Col span={8} offset={8}><h1>{category.category}</h1></Col></Row>
+          <Row type="flex" justify="space-around"><Col><h1>{category.category}</h1></Col></Row>
           <Row type="flex" justify="space-around"><IsaacCardCategory cards={category.cards} search={(this.state || {}).search}></IsaacCardCategory></Row>
         </div>
       })
     }
     return (
       <div className="App">
-        <Search cards={[[]].concat(cards).reduce((a,c) => a.concat(c.cards.map(card => card.originalName)))}></Search>
+        <Row type="flex" justify="space-around"><Col><img alt="index" src={process.env.PUBLIC_URL + '/index2.png'} style={{width: '80%'}}></img></Col></Row>
+        <Row type="flex" justify="space-around"><Col><SearchCard cards={[[]].concat(cards).reduce((a,c) => a.concat(c.cards.map(card => card.originalName)))}></SearchCard></Col></Row>
         {cardsDisplay}
       </div>
     );
