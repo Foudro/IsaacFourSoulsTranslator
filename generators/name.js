@@ -1,11 +1,10 @@
 const {promises: fs} = require('fs');
 
 (async () => {
-    const dirPath = 'generators';
+    const dirPath = 'public/cardsIcon';
     const dir = await fs.readdir(dirPath);
-    const csvs = dir.filter(card => card.match(/.csv$/));
-    csvs.forEach(async csv => {
-        const content = await fs.readFile('generators/' + csv);
-        console.log(content.toString());
+    const pngs = dir.filter(card => card.match(/.png$/));
+    pngs.forEach(async png => {
+        const content = await fs.rename('public/cardsIcon/' + png, 'public/cardsIcon/' + png.split('-fs8')[0] + png.split('-fs8')[1]);
     })
 })()

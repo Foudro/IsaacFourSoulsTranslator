@@ -1,7 +1,7 @@
 .IsaacCard {
     height: 100%;
     width: 240px;
-    background-color: rgba(255, 255, 255, 0.35);
+    background-color: rgba(255, 255, 255, 1);
     border-color: black;
 }
 
@@ -12,7 +12,7 @@ div .separator:not(:first-child) {
 }
 
 .ant-card-meta-title {
-    color: white;
+    color: red;
 }
 
 .ant-card-meta-description {
