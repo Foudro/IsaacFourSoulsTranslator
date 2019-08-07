@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 
+import searchStore from '../stores/search';
+
 import { AutoComplete } from 'antd';
 const { Option } = AutoComplete;
-
 
 class Search extends Component {
     constructor(props) {
@@ -16,13 +17,17 @@ class Search extends Component {
     }
 
     setSearch(search) {
-        this.setState({ search });
+        searchStore.dispatch({
+            type: 'UPDATE_SEARCH',
+            text: search.toLowerCase()
+        })
+        this.setState({ search: search.toLowerCase() });
     }
 
     render() {
         const search = this.getSearch();
         return (
-            <AutoComplete dataSource={this.props.cards.filter(c => search && search !== '' && c.match(search)).map(c => <Option key={c}>{c}</Option>)} style={{ width: 200 }} onSearch={this.handleSearch} placeholder="Search">
+            <AutoComplete dataSource={this.props.cards.filter(c => search && search !== '' && c.toLowerCase().match(search)).map(c => <Option key={c}>{c}</Option>)} style={{ width: 200 }} onSearch={this.handleSearch} placeholder="Search">
             </AutoComplete>
         );
     }

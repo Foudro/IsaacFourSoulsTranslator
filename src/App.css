@@ -1,7 +1,12 @@
+#root {
+  height: 100%;
+}
+
 .App {
   text-align: center;
   font-family: 'Patrick Hand', cursive;
   background: #303338;
+  height: 100%;
 }
 
 .App-logo {
