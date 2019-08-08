@@ -18,3 +18,7 @@ div .separator:not(:first-child) {
 .ant-card-meta-description {
     color: rgba(0, 0, 0, 0.95);
 }
+
+.ant-card-body {
+    padding: 15px;
+}
