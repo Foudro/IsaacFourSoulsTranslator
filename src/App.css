@@ -5,6 +5,7 @@
 .App {
   text-align: center;
   font-family: 'Patrick Hand', cursive;
+  font-size: 20px;
   background: #303338;
   min-height: 100%;
 }
