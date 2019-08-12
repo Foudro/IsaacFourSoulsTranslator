@@ -17,20 +17,21 @@ class App extends Component {
     searchStore.subscribe(() => {
       this.setState({ search: searchStore.getState() });
     });
+    this.componentDidMount();
   }
   render() {
     let cardsDisplay;
     if(!(this.state || {}).all) {
       cardsDisplay = <div>
         <Row type="flex" justify="space-around">
-          <IsaacCardCategory cards={cards.reduce((a,c) => (a.cards || a).concat(c.cards))} search={(this.state || {}).search}></IsaacCardCategory>
+          <IsaacCardCategory cards={cards.reduce((a,c) => (a.cards || a).concat(c.cards))} search={(this.state || {}).search} numbers={(this.state || {}).getNumberOfCardsToDisplay}></IsaacCardCategory>
         </Row>
       </div>
     } else {
       cardsDisplay = cards.map(category => {
         return <div>
           <Row type="flex" justify="space-around"><Col><h1>{category.category}</h1></Col></Row>
-          <IsaacCardCategory cards={category.cards} search={(this.state || {}).search}></IsaacCardCategory>
+          <IsaacCardCategory cards={category.cards} search={(this.state || {}).search} numbers={(this.state || {}).getNumberOfCardsToDisplay}></IsaacCardCategory>
         </div>
       })
     }
@@ -45,6 +46,18 @@ class App extends Component {
         {cardsDisplay}
       </div>
     );
+  }
+
+  componentDidMount() {
+    window.addEventListener("resize", this.resize.bind(this));
+    this.resize();
+  }
+
+  resize() {
+    let getNumberOfCardsToDisplay = Math.trunc(window.innerWidth / 240);
+    if (getNumberOfCardsToDisplay !== (this.state || {}).getNumberOfCardsToDisplay) {
+        this.setState({getNumberOfCardsToDisplay});
+    }
   }
 }
 

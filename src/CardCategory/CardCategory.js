@@ -14,7 +14,7 @@ class IsaacCardCategory extends Component {
   }
 
   render() {
-    const pageSize = 6;
+    const pageSize = (this.props || {}).numbers || 1;
     const filteredCards = this.props.cards.filter(c => this.props.search && c.originalName.toLowerCase().match(this.props.search));
     const cards = 
     filteredCards.slice((this.state.page - 1) * pageSize, (this.state.page) * pageSize).map(card => {
