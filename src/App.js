@@ -7,15 +7,15 @@ import './App.css';
 import IsaacCardCategory from './CardCategory/CardCategory';
 import SearchCard from './Search/Search';
 
-import searchStore from './stores/search';
+import searchSubject from './Subjects/search';
 
 import { Row, Col } from 'antd';
 
 class App extends Component {
   constructor(props) {
     super(props);
-    searchStore.subscribe(() => {
-      this.setState({ search: searchStore.getState() });
+    searchSubject.subscribe(search => {
+      this.setState({ search });
     });
     this.componentDidMount();
   }

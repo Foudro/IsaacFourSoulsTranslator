@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import searchStore from '../stores/search';
+import searchSubject from '../Subjects/search';
 
 import { Input } from 'antd';
 const { Search } = Input;
@@ -18,10 +18,7 @@ class SearchCard extends Component {
 
     setSearch(event) {
         const search = event.target.value;
-        searchStore.dispatch({
-            type: 'UPDATE_SEARCH',
-            text: search.toLowerCase()
-        })
+        searchSubject.next(search.toLowerCase());
         this.setState({search});
     }
 
